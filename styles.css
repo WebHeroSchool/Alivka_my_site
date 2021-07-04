@@ -61,7 +61,7 @@ body {
 }
 
 .main-content__title {
- font-family: PT Serif;
+ font: bold 66px/87px PTSerif, arial, helvetica, sans-serif;
 }
 
 .main-content__subtitle {
