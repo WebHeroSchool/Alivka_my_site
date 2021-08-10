@@ -133,8 +133,15 @@ body {
   transition: opacity .5s;
 }
 
+@keyframes flash {
+  to {
+    background: #000;
+  }
+}
+
 .main__button:hover {
   opacity: .5;
+  animation: flash 1s infinite ease;
 }
 
 .footer__pagination {
