@@ -3,6 +3,7 @@
 	src: url('fonts/PTSerif-Bold.woff') format('woff'), url('fonts/PTSerif-Bold.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
@@ -10,10 +11,12 @@
 	src: url('fonts/Roboto-Medium.woff') format('woff'), url('fonts/Roboto-Medium.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 @font-face {
 	font-family: 'Roboto-Regular';
 	src: url('fonts/Roboto-Regular.woff') format('woff'), url('fonts/Roboto-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
